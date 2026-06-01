@@ -45,15 +45,19 @@ This project is structured using the **MVVM** pattern:
 
 ## 🚀 Installation & Setup
 
-1. **Clone the repository:**
+**1. Clone the repository:**
 ```bash
-   git clone [https://github.com/Kissly1/Hero-RandomizerApp.git](https://github.com/Kissly1/Hero-RandomizerApp.git)
+git clone [https://github.com/Kissly1/Hero-RandomizerApp.git](https://github.com/Kissly1/Hero-RandomizerApp.git)
 
- 2.  **Open the project:**
+2. Open the project:
 Navigate to the project directory and open the .xcodeproj file in Xcode.
 
 cd Hero-RandomizerApp
-   open HeroRandomizer.xcodeproj
+open HeroRandomizer.xcodeproj
+
+
+3. Build & Run:
+Select your preferred iPhone simulator (iOS 15.0+ recommended) and press Cmd + R.
 
 
   3. Build & Run:
