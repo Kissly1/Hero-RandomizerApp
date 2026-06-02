@@ -15,18 +15,16 @@ An elegant and dynamic iOS application that fetches and displays detailed profil
 
 > **Note:** Here is how the application looks and feels in action.
 
-<p align="center">
-  <!-- ========================================== -->
-  <!-- <img width="282" height="571" alt="Снимок экрана — 2026-06-01 в 17 16 56" src="https://github.com/user-attachments/assets/fbc0c0d7-9cc7-4f6e-93ff-da1742786c00" />
+<div align="center">
+  
+<!-- ======================================================== -->
+<img width="282" height="571" alt="Снимок экрана — 2026-06-01 в 17 16 56" src="https://github.com/user-attachments/assets/d61294d2-e46f-449a-b729-fbab0bf81ffc" />
 
-  <img width="282" height="569" alt="Снимок экрана — 2026-06-01 в 17 17 16" src="https://github.com/user-attachments/assets/8db780ac-f6ce-4aa3-a999-31b3602588bf" />
+<img width="282" height="569" alt="Снимок экрана — 2026-06-01 в 17 17 16" src="https://github.com/user-attachments/assets/2d29e0ce-e974-4fac-96e6-3c267bc443d0" />
 
- -->
-  <!-- ========================================== -->
-  <img src="URL_TO_YOUR_MAIN_GIF_OR_SCREENSHOT" width="280" alt="Hero Randomizer Main Screen" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="URL_TO_YOUR_SECOND_SCREENSHOT" width="280" alt="Hero Details Screen" />
-</p>
+<!-- ======================================================== -->
+
+</div>
 
 ## ✨ Key Features
 
@@ -46,19 +44,20 @@ This project is structured using the **MVVM** pattern:
 ## 🚀 Installation & Setup
 
 **1. Clone the repository:**
+
 ```bash
 git clone [https://github.com/Kissly1/Hero-RandomizerApp.git](https://github.com/Kissly1/Hero-RandomizerApp.git)
 ```
+
 2. Open the project:
 Navigate to the project directory and open the .xcodeproj file in Xcode.
 
+```
 cd Hero-RandomizerApp
 open HeroRandomizer.xcodeproj
-
+```
 
 3. Build & Run:
 Select your preferred iPhone simulator (iOS 15.0+ recommended) and press Cmd + R.
 
 
-  3. Build & Run:
-Select your preferred iPhone simulator (iOS 15.0+ recommended) and press Cmd + R.
